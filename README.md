@@ -1,1 +1,1 @@
-# Java-Enumaration
+# Java-Enumerations
